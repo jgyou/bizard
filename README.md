@@ -1,4 +1,6 @@
 bizard
 ======
 
-your business wizard
+your business wizard.
+
+Bizard is under Apache license.
